@@ -7,7 +7,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@wangeditor-next/editor": "5.7.2",
+    "@wangeditor-next/editor": "5.7.3",
     "@wangeditor-next/editor-for-react": "2.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
