@@ -8,7 +8,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@wangeditor-next/editor": "5.7.9",
+    "@wangeditor-next/editor": "5.7.10",
     "@wangeditor-next/editor-for-vue": "latest",
     "vue": "^3.2.0"
   },
