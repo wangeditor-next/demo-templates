@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@wangeditor-next/editor": "6.1.0",
-    "@wangeditor-next/editor-for-vue": "latest",
+    "@wangeditor-next/editor-for-vue": "5.1.14",
     "vue": "^3.2.0"
   },
   "devDependencies": {
