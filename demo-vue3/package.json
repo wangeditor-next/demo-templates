@@ -8,8 +8,8 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@wangeditor-next/editor": "6.4.3",
-    "@wangeditor-next/editor-for-vue": "6.4.3",
+    "@wangeditor-next/editor": "6.5.0",
+    "@wangeditor-next/editor-for-vue": "6.5.0",
     "vue": "^3.5.43"
   },
   "devDependencies": {
